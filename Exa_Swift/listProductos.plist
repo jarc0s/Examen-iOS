@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageKey</key>
+		<string>ico_pepsi</string>
+		<key>label</key>
+		<string>Pepsi</string>
+		<key>price</key>
+		<string>$30</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>ico_salad</string>
+		<key>label</key>
+		<string>Ensalda</string>
+		<key>price</key>
+		<string>$100</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>ico_cake</string>
+		<key>label</key>
+		<string>Pastel</string>
+		<key>price</key>
+		<string>$50</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>ico_coffe</string>
+		<key>label</key>
+		<string>Cafe</string>
+		<key>price</key>
+		<string>$60</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>ico_meat</string>
+		<key>label</key>
+		<string>Carne</string>
+		<key>price</key>
+		<string>$150</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>ico_pasta</string>
+		<key>label</key>
+		<string>Pasta</string>
+		<key>price</key>
+		<string>$100</string>
+	</dict>
+</array>
+</plist>
